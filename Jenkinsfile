@@ -18,7 +18,7 @@ pipeline {
         }
         stage('Deliver'){
             steps {
-                sh 'echo fxp933'
+                sh './jenkins/scripts/deliver.sh'
             }
 }
     }
