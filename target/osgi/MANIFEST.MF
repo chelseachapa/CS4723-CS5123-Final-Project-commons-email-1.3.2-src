@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1607115704012
+Bnd-LastModified: 1607124043809
 Build-Jdk: 11.0.7
 Built-By: chelseachapa
 Bundle-Description: Commons-Email aims to provide an API for sending ema
