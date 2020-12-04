@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
-echo 'deliver script'
+echo 'Deliver Stage'
 echo 'fxp933'
