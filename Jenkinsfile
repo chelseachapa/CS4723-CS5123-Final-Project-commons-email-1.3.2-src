@@ -15,11 +15,6 @@ pipeline {
             steps {
                 sh 'mvn test'
             }
-//            post{
-//                always{
-//                    junit ''
-//                }
-//            }
         }
         stage('Deliver'){
             steps {
