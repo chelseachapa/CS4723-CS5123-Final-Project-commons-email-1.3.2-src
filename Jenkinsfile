@@ -15,11 +15,11 @@ pipeline {
             steps {
                 sh 'mvn test'
             }
-            post{
-                always{
-                    junit 'build/reports/**/*.xml'
-                }
-            }
+//            post{
+//                always{
+//                    junit 'build/reports/**/*.xml'
+//                }
+//            }
         }
         stage('Deliver'){
             steps {
