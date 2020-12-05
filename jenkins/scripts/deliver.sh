@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo 'Deliver Stage'
+echo 'Deliver Script'
 echo 'fxp933'
